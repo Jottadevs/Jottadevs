@@ -11,5 +11,3 @@
   <img align="center" alt="Jota-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jota-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
-
-![animation](https://github.com/Jottadevs/Jottadevs/blob/output/github-contribution-grid-snake.svg)
