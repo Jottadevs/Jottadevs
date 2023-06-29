@@ -1,4 +1,4 @@
-### Hi, I'am Jotta! Welcome!
+### Hi, I'am Jotta!
 
 ### Connect with me:
 
