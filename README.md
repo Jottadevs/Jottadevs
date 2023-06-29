@@ -1,5 +1,7 @@
 ### Hi, I'am Jotta!
 
+- ⚛ Creating my portfolio using React Js.
+
 ### Connect with me:
 
 <div>
