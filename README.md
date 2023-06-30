@@ -24,7 +24,7 @@
 </p>
 
  <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jottadevs&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&bg_color=0d1117" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jottadevs&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&bg_color=0d1117" />
 </p>
 
 
