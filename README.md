@@ -9,9 +9,9 @@
 
 
 
-<div >  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jottadevs&show_icons=true&count_private=true&hide_border=true&theme=dracula&bg_color=0d1117" alt="Jottadevs github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jottadevs&layout=compact&hide_border=true&theme=dracula&bg_color=0d1117" />
+<div align="center" >  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jottadevs&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0d1117" alt="Jottadevs github stats" /> 
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jottadevs&layout=compact&hide_border=true&theme=dark&bg_color=0d1117" />
 </div>
 
 
