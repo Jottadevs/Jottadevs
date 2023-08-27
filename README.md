@@ -10,8 +10,10 @@
 
 
 <div align="center" >  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jottadevs&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0d1117" alt="Jottadevs github stats" /> 
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jottadevs&layout=compact&count_private=true&hide_border=true&theme=dark&bg_color=0d1117" />
+  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jottadevs&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0d1117" alt="Jottadevs Github stats" /> 
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/? username=Jottadevs&layout=compact&count_private=true&hide_border=true&theme=dark&bg_color=0d1117" />
+  
 </div>
 
 
@@ -52,8 +54,7 @@
 
 
 ### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/-c++-0D1117?style=for-the-badge&logo=c%2B%2B&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4F4F4F&height=120&section=footer"/>
