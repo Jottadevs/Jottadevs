@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4F4F4F&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jotta;I'm+18+years+old;I'm+from+Brazil;I'm+Front-End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jottadevs&bg_color=0d1117&color=4F4F4F&line=A9A9A9&point=808080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center" >  
   
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jottadevs&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0d1117" alt="Jottadevs Github stats" /> 
