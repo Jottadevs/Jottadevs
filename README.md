@@ -2,15 +2,14 @@
 
 ###
 
-<h2 align="left">
+<p align="left">
   I'm 20 years old and currently work with <strong>n8n</strong> and <strong>Python</strong>, creating automation workflows and process integrations.  
-  <br><br>
   Right now, I'm focusing on transitioning my career to <strong>mobile development</strong>, learning tools and frameworks like <strong>React Native</strong> and <strong>Flutter</strong>.
-</h2>
+</p>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jottadevs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=jottadevs&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
