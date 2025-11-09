@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is João, and I'm a Junior Automation Developer from Brazil.  <br><br>I'm 20 years old and currently work with n8n and Python, creating automation workflows and process integrations.  <br><br>Right now, I'm focusing on transitioning my career to mobile development, learning tools and frameworks like React Native and Flutter.</h2>
+<h2 align="left">Hi 👋! My name is João, and I'm a Junior Automation Developer from Brazil.  
+
+<h2 align="left"><br><br>I'm 20 years old and currently work with n8n and Python, creating automation workflows and process integrations.  <br><br>Right now, I'm focusing on transitioning my career to mobile development, learning tools and frameworks like React Native and Flutter.</h2>
 
 ###
 
