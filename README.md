@@ -47,6 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jottadevs/jottadevs/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/jotaddevs/jottadevs/blob/output/github-contribution-grid-snake.gif)
 
 ###
