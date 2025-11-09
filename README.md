@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is João, and I'm a Junior Automation Developer from Brazil.  
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+João+Lucas;I'm+Junior+Automation+Developer+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <h2 align="left">I'm 20 years old and currently work with n8n and Python, creating automation workflows and process integrations.  <br><br>Right now, I'm focusing on transitioning my career to mobile development, learning tools and frameworks like React Native and Flutter.</h2>
 
