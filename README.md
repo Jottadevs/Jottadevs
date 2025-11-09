@@ -1,15 +1,15 @@
-<h2 align="left">Hi 👋! My name is João, and I'm a Junior Automation Developer from Brazil.  <br>I'm 20 years old and currently work with n8n and Python, creating automation workflows and process integrations.  <br><br>Right now, I'm focusing on transitioning my career to mobile development, learning tools and frameworks like React Native and Flutter.</h2>
+<h2 align="left">Hi 👋! My name is João, and I'm a Junior Automation Developer from Brazil.  <br><br>I'm 20 years old and currently work with n8n and Python, creating automation workflows and process integrations.  <br><br>Right now, I'm focusing on transitioning my career to mobile development, learning tools and frameworks like React Native and Flutter.</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jottadevs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=jottadevs&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jottadevs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=jottadevs&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3k5NTN0eTYwd21keG1udWd1cTNyNXViOGl1OWJ1azRraHQzYTIxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bY4w9UgtEElsPzUVzy/giphy.gif"  />
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRvMWdlYjFkOWZnazY5M3F3MHY4dTIwdjg2bGl5d2VkeW11ZWM2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
 
 ###
 
