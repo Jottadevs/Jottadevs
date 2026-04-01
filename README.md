@@ -1,11 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+João+Lucas;I'm+a+Junior+Automation+Developer+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-###
-
-<p align="left">
-  I'm 20 years old and currently work with <strong>n8n</strong> and <strong>Python</strong>, creating automation workflows and process integrations.  
-  Right now, I'm focusing on transitioning my career to <strong>mobile development</strong>, learning tools and frameworks like <strong>React Native</strong> and <strong>Flutter</strong>.
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+João+Lucas;I'm+a+Junior+Full+Stack+Developer+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 ###
